@@ -1,7 +1,3 @@
-# Vinícius Wallauer
-
-**Full Stack Developer** · Backend focus · Rio Grande do Sul, Brazil
-
 ```elixir
 defmodule Developer.Wallauerr do
   @moduledoc "Vinícius Wallauer · Full Stack Developer · Backend focus"
